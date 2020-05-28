@@ -1,1 +1,3 @@
-include ':app', ':RxTools-library'
+include ':RxDemo', ':RxKit', ':RxUI',':RxCamera', ':RxFeature',':RxPay', ':RxArcGisKit'
+rootProject.name='RxTool'
+
